@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thing Doer
 Info here: https://mattstartin.github.io/website-v2/
 
 <!--
